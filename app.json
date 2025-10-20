@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-expo-app",
-    "slug": "my-expo-app",
+    "name": "expo-tailwind-v5",
+    "slug": "expo-tailwind-v5",
     "version": "1.0.0",
 
     "web": {
