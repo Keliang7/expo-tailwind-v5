@@ -8,6 +8,7 @@ export default function HomeScreen() {
       <Link href="/modal" className="text-blue-500">
         打开 Modal 页面 →
       </Link>
+      <Link href="/details">打开全屏页 →</Link>
     </View>
   );
 }
